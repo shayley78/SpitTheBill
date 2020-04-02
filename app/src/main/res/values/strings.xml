@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Spit the Bill</string>
+    <string name="txtTitle">SPLIT THE BILL</string>
+    <string name="txtAbout">The App that will help you and your friends easily add a tip and split the bill.</string>
+    <string name="txtNumPeople">Number of People in Group</string>
+    <string name="txtAmount">Amount of the Bill</string>
+    <string name="prompt">Select Quality of Service</string>
+    <string name="description">Restaurant Bill Image</string>
+    <string name="btnSplit">Help Me Split the Bill</string>
+    <string name="btnCalculate">Calculate</string>
+    <string-array name="txtService">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+</resources>
